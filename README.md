@@ -11,6 +11,8 @@ If you drink coffee many times, you will be able to drink coffee for free.
 You want to drink coffee for free, so you will calculate how many INR you can pay for later.
 
 Let's actually write a program and calculate it.
+
+
 #include<stdio.h>
 #include<stdlib.h>
 int main()
